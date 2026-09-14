@@ -1,30 +1,22 @@
 <!-- if you're reading the source, you're already past the interface. -->
 
-<p align="center">
-  <a href="https://quandle.xyz/">
-    <img src="./assets/lorenz-ascii.gif" width="680" alt="Rotating ASCII Lorenz attractor" />
-  </a>
-</p>
+<a href="https://quandle.xyz/">
+  <img
+    align="right"
+    width="245"
+    src="./assets/lorenz-ascii.gif"
+    alt="Rotating ASCII Lorenz attractor"
+  />
+</a>
 
-<h1 align="center">Nathan Luevano</h1>
+### Nathan Luevano
 
-<p align="center">
-  <samp>security engineering · reverse engineering · binary analysis · systems security</samp>
-</p>
+<samp>security engineering · reverse engineering · binary analysis · systems security</samp>
 
-<p align="center">
-  <em>“Nature uses only the longest threads to weave her patterns,<br />
-  so each small piece of her fabric reveals the organization of the entire tapestry.”</em>
-  <br />
-  <sub>Richard P. Feynman · The Character of Physical Law</sub>
-</p>
+<em>“What I cannot create, I do not understand.”</em><br> <sub>Richard P. Feynman</sub>
 
-<p align="center">
-  <samp>working from the small pieces: opcodes · executable formats · bitstreams · traces</samp>
-</p>
+<samp>opcodes · executable formats · bitstreams · traces</samp>
 
-<p align="center">
-  <a href="https://quandle.xyz/"><strong>quandle.xyz</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://x.com/nathanluevano">x.com/nathanluevano</a>
-</p>
+[**quandle.xyz**](https://quandle.xyz/) · [x.com/nathanluevano](https://x.com/nathanluevano)
+
+<br clear="right">
