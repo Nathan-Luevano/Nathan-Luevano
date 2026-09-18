@@ -1,11 +1,10 @@
 <!-- if you're reading the source, you're already past the interface. -->
-<!-- connector write test -->
 
 <a href="https://quandle.xyz/">
   <img
     align="right"
     width="245"
-    src="./assets/lorenz-ascii.gif"
+    src="https://raw.githubusercontent.com/Nathan-Luevano/Nathan-Luevano/main/assets/lorenz-ascii.gif?v=2"
     alt="Rotating ASCII Lorenz attractor"
   />
 </a>
